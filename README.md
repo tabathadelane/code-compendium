@@ -8,7 +8,7 @@ I built this version of my website with Vue and deployed it with Github Pages.
 **_Technologies Used: Javascript, Vue, HTML, CSS, Bootstrap, Sass_**
 
 ### [Personal Website - React Clone](https://github.com/tabathadelane/portfolio-clone-react)
-After running through a few tutorials and simple apps using API, I decided to try and 'translate' an existing app to React. This was really fun, and I am confident that I can be just as competent with Vue AND React.  
+After running through a few tutorials of simple react apps using webhooks and API's, I decided for fun to try and 'translate' an existing app of mine to React. This was really fun, and I am confident that I can be just as competent with Vue AND React now that I've seen how they compare.  
 **_Technologies Used: Javascript, React, HTML, CSS, Bootstrap_**
 
 ### [Trversal](https://github.com/tabathadelane/trversal) *- With animated Demo*
