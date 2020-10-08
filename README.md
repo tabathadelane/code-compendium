@@ -3,6 +3,7 @@ Here is a easy overview of some of my apps. I've been trying to self-teach a han
 
 
 ### [Personal Website](https://github.com/tabathadelane/tabathadelane.github.io)
+[The Website](http://tabathadyoung.com)
 I built this version of my website with Vue and deployed it with Github Pages.  
 **_Technologies Used: Javascript, Vue, HTML, CSS, Bootstrap, Sass_**
 
@@ -26,7 +27,7 @@ A mock marketing site for my D&D group's adventuring party. See why you should h
 This was my first attempt to use the full Vue CLI and transition out of static Django templates. It needs some styling, and some user authorization, but I was really excited to be able to hook the full stack app to an additional external API to pull video game information from a serach bar to save to my personal collection! This was a group project with a fellow bootcamp grad. We also learned how to set-up and use PostgreSQL  
 **_Technologies Used: Python, Django, Django Rest, PostgreSQL, Javascript, Vue_**
 
-### [Habit@ (Habitat)](https://github.com/serverless-mom/habitat) *- With animated Demo*
+### [Habit@ (Habitat)](https://github.com/serverless-mom/habitat)
 This app was built during a 10 hr hackathon. I got to work with some senior developers on a React and AWS Lambda app. It's very simple, but I got to see a lot of new technologies. I wrote the python functions for the Lambda, and did some quick CSS.  
 **_Technologies Used: AWS Lambda, Mongo DB, Python, CSS, React_**
 
