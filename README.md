@@ -3,7 +3,7 @@ Here is a easy overview of some of my apps. I've been trying to self-teach a han
 
 
 ### [Personal Website](https://github.com/tabathadelane/tabathadelane.github.io)
-[The Website](http://tabathadyoung.com)  
+[Link to The Website](http://tabathadyoung.com)  
 I built this version of my website with Vue and deployed it with Github Pages.  
 **_Technologies Used: Javascript, Vue, HTML, CSS, Bootstrap, Sass_**
 
