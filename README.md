@@ -1,5 +1,5 @@
 ## Welcome! To my Developer Code Compendium!
-Here is a easy overview of some of my apps. I've been trying to self-teach a handful of skills and technologies. I am proud of all the resourcefulness and troubleshooting I've expended on all of them, even if the current project isn't the most beautiful looking thing. They are all important to me in some way, but there are simply too many to describe on a resume! Thank you for viewing!
+Here is a easy overview of some of my apps. I've been trying to self-teach a handful of skills and technologies. I am proud of all the resourcefulness and troubleshooting I've expended on all of them, even if the current project isn't the most beautiful looking thing. They are all important to me in some way, but there are simply too many to describe on a resume! I am slowly working on updating the indiviual readme files, but feel free to browse the code. Thank you for viewing!
 
 
 ### [Personal Website](https://github.com/tabathadelane/tabathadelane.github.io)
